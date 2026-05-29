@@ -4,3 +4,6 @@
 
 * # **3D PCB VIEW**
   <img width="1632" height="836" alt="Image" src="https://github.com/user-attachments/assets/20fc824c-5549-43f4-ab64-56734b4ff693" />
+
+* # **SCHEMATIC DIAGRAM**
+  <img width="1095" height="769" alt="Image" src="https://github.com/user-attachments/assets/f0e0e90d-430d-4d74-a294-7e1e013d2cd0" />
